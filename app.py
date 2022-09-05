@@ -9,7 +9,7 @@ def fun1():
 @app.route("/show",methods = ["post"])
 def home():
     nm = request.form['name']
-    reg_id = float(request.form['reg_id'])
+    reg_id = int(request.form['reg_id'])
     sheet_id1='11LNkA1BML-sOJF65XBHSYMV9-s8AVeJhoy-rhgOUfLY'
     sheet_id2 = '1aJFuKyLaZRdWZ-S81T1CylFOOsvZDbVRlvg-pVHTO50'
     df = pd.concat(map(pd.read_csv,[f"https://docs.google.com/spreadsheets/d/{sheet_id1}/export?format=csv", f"https://docs.google.com/spreadsheets/d/{sheet_id2}/export?format=csv"]))
