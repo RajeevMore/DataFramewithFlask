@@ -1,7 +1,6 @@
 from flask import Flask,app,jsonify,url_for, render_template, request
 import pandas as pd
 app=Flask(__name__)
-
 @app.route("/")
 def fun1():
     return render_template("info.html")
@@ -12,7 +11,7 @@ def home():
     sheet_id1='1H-rkyHggDJJI-QNh5SgG9u4zzQCEiow79mCMY_8I9CI'
     #sheet_id2 = '1aJFuKyLaZRdWZ-S81T1CylFOOsvZDbVRlvg-pVHTO50'
     #df = pd.concat(map(pd.read_csv,[f"https://docs.google.com/spreadsheets/d/{sheet_id1}/export?format=csv", f"https://docs.google.com/spreadsheets/d/{sheet_id2}/export?format=csv"]))
-    df = pd.concat(map(pd.read_csv,[f"https://docs.google.com/spreadsheets/d/{sheet_id1}/export?format=csv"]))
+    df = pd.concat(map(pd.read_csv,f"https://docs.google.com/spreadsheets/d/{sheet_id1}/export?format=csv"))
    
     result1 = df[df['Registration id'] ==reg_id ]
     return result1.to_html()
