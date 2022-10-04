@@ -5,7 +5,6 @@ app=Flask(__name__)
 @app.route("/")
 def fun1():
     return render_template("info.html")
- https://docs.google.com/spreadsheets/d/1H-rkyHggDJJI-QNh5SgG9u4zzQCEiow79mCMY_8I9CI/edit?usp=sharing
 @app.route("/show",methods = ["post"])
 def home():
     nm = request.form['name']
