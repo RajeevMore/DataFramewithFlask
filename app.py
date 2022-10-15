@@ -26,14 +26,7 @@ def home():
     result2 = result1[result1["Student Name"].str.contains(name)]
       
     return '<h1> Welcome {}, Your Mock Interview Scores are as follows</h1>'.format(name)+"<br/>"+result2.to_html()+"<br/><br/> If you have provided correct name then infomation will display otherwise not" 
-    
-
-
-
-
-
-
-    
+        
 if __name__ == "__main__":
     app.run(debug=True)
 
