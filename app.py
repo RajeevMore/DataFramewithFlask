@@ -15,7 +15,7 @@ def home():
     #result1 = df[df['Registration id'] == reg_id ]
     #return result1.to_html()
     
-     df = pd.read_csv("mockdata.csv")
+    df = pd.read_csv("mockdata.csv")
     
     def do_lower(name):
         return name.lower()
