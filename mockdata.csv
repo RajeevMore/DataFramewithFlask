@@ -1,7 +1,7 @@
 Timestamp,Registration id,Student Name,Expert Name,Technical,Coding,Communication, Suggessions
 7/3/2022 12:12:03,1625,Pooja Ugale,Anant kaulage,7,6,Average,improvement is necessary
 7/3/2022 12:13:48,1648, Kajal Ghode,Anant kaulage,8,6,Average,improvement is necessary
-7/3/2022 12:14:44,,Trupti Pawar,Anant kaulage,8,7,Average,Improvement is Necessary
+7/3/2022 12:14:44,1607,Trupti Pawar,Anant kaulage,8,7,Average,Improvement is Necessary
 7/3/2022 12:16:06,1602,Sandip Kahate,Anant kaulage,7,6,Average,Little More Improvement in the coding and technical skills
 7/3/2022 12:17:04,1632,Navanath Valekar,Anant kaulage,6,5,Average,More Improvement is Necessary
 7/3/2022 12:18:08,1652,Dr. Dhanshri Khatawkar,Anant kaulage,4,4,Weak,Lots of Improvement is needed
@@ -32,163 +32,61 @@ Timestamp,Registration id,Student Name,Expert Name,Technical,Coding,Communicatio
 7/9/2022 13:43:12,1663,Sanket Yadav,Ganesh S,8,7,Average,"Overall good, need some coding practice."
 7/9/2022 13:44:20,1623,Mhalasakant Saradeshmukh,Ganesh S,8,6,Average,Needs coding practice.
 7/9/2022 18:09:42,1620,Suvarna Potdukhe,Ganesh S,8,7,Average,Overall Ok.
-7/17/2022 16:35:22,,Ayush Dave,Sachin Birajdar,4,3,Weak,"-Need to work on Data Science concepts,
+7/16/2022 17:08:35,1536,Pranesh Trimukhe,Vishal Bharate,5,5,Good,"Needs to improve :
+1. communication 
+2. fundamental concepts of ML and DL.
+3. Practice more on python programming"
+7/16/2022 17:10:30,1543,Rajesh Jadhav,Vishal Bharate,7,6,Good,"Needs to improve :
+1. communication 
+2. prepare precisely concepts of ML and DL
+3. Practice more on python programming"
+7/16/2022 17:12:35,1535,Reshma Jadhav,Vishal Bharate,7,6,Good,"Needs to improve :
+1. communication 
+2. Listen properly to a question and answer
+3. fundamental concepts of ML and DL.
+4. Practice more and more on python programming"
+7/16/2022 17:14:17,1544,Amar Waghmare,Vishal Bharate,5,6,Good,"Needs to improve :
+1. communication - Try to speak in English
+2. more focus on pandas
+3. fundamental concepts of ML and DL.
+4. Practice more on python programming"
+7/16/2022 17:16:49,1527,Gauri Bhilaye,Vishal Bharate,6,0,Good,"Needs to improve :
+1. fundamental concepts of ML and DL
+2. Join interview call using laptop- Missing coding evaluation
+3. fundamental concepts of various functions in pandas"
+7/17/2022 16:35:22,1515,Ayush Dave,Sachin Birajdar,4,3,Weak,"-Need to work on Data Science concepts,
 -Need to work on coding
 -Introduction must be well organized"
-7/17/2022 16:37:29,,Jitendra Khot,Sachin Birajdar,5,7,Average,"Good in python but still suggest to work on coding,
+7/17/2022 16:37:29,1537,Jitendra Khot,Sachin Birajdar,5,7,Average,"Good in python but still suggest to work on coding,
 Need to work on DS concept, more prepression needed."
-7/17/2022 16:39:18,,Akshata Shinde,Sachin Birajdar,3,8,Good,"Python coding is good, but DS concepts is bellow average, need to work on it"
-7/17/2022 16:41:54,,Sriniwas More,Sachin Birajdar,4,6,Average,"Need more preparation for DS, and coding, Introduction must be framed nicely.. "
-8/14/2022 21:42:53,,Saraswati Nagtilak,Sachin Birajdar,8,7,Good,Technically good still need more revision of basic concepts.. Will suggest to practice coding
-8/14/2022 21:44:29,1607,Trupati Patil,Sachin Birajdar,6,5,Good,Need more practice of python. Technically good but need more revision
-8/14/2022 21:46:14,,Nikita Jagtap,Sachin Birajdar,4,5,Average,Need to work on coding. Need more study of technical concepts. Also need to work on communication.
-8/14/2022 21:47:50,DSML 7,Monali Dambe,Sachin Birajdar,7,7,Average,Technically good and coding is also good. Still suggest to work more on it. Need to improve communication skill.
-8/14/2022 21:49:11,DSML 15,Ruturaj Patil,Sachin Birajdar,7,5,Good,Technically good but need to work on coding. 
-8/14/2022 21:51:02,1604,Tejaswani Patil,sachin Birajdar,9,7,Good,Coding is good. Technically also good. Still need to work on ML basic concepts
-8/14/2022 21:52:34,1676,Akshay Warade,Sachin Birajdar,9,6,Good,Coding is good. Need to work on technical aspect. 
-8/14/2022 21:53:49,,Rahul Navale,Sachin Birajdar,5,5,Good,Need to work on both coding and ML basic concepts
-8/14/2022 21:55:09,1647,Rubina Kazi,Sachin Birajdar,4,4,Average,"Need to work on all aspects. Coding, technical and communication too."
-8/14/2022 21:56:25,1608,Arun Shinde,Sachin Birajdar,4,5,Average,Need to work on Coding and ML basics. Need to improve communication
-8/14/2022 21:58:44,,Rahul Borate,Sachin Birajdar,7,5,Average,"Coding is good. Still unable to solve some simple problem statement. Need to study more, need to work on some basic concepts of DL and NLP"
-8/14/2022 22:00:39,1614,Akash Kakekar,Sachin Birajdar,6,5,Average,Coding is good. He solved some tasks as I given. Need to work on technical concepts. Need to improve communication. 
-8/15/2022 20:53:32,1660,Swati pawar,Durgesh Patil,6,6,Good,Need to work more else ok
-8/15/2022 20:54:36,DSML 13,Aniket khedkar,Durgesh Patil,5,5,Average,Technical understanding is weak
-8/15/2022 20:55:27,1669,Sujata purohit,Durgesh Patil,4,6,Good,Confidence and more technical understanding needed
-8/15/2022 20:56:11,1634,Vishnu potdar,Durgesh Patil,7,7,Good,"Everything is good, need to spend more time"
-8/15/2022 21:00:06,1674,Swapnali more,Durgesh Patil,9,7,Good,Everything is good
-8/15/2022 21:01:19,1637,Amit kambale,Durgesh Patil,6,4,Average,Coding practice needed
-8/15/2022 21:04:00,1616,Pratik chavan,Durgesh Patil,8,5,Good,Logic needed 
-8/15/2022 21:09:33,1640,Priyanka,Durgesh Patil,7,6,Good,More practice
-8/15/2022 21:11:43,1621,Pravin sathe,Durgesh Patil,8,6,Good,Coding practice needed
-8/15/2022 21:12:31,1662,Aakash kadam,Durgesh Patil,4,4,Weak,Need to work on everything
-8/17/2022 11:14:16,1606,Varsha aadke,Rani godase,7,8,Good,Should use more technical terms while explaining anything.
-8/17/2022 11:15:01,1603,Kimaya sheth,Rani Godase,9,8,Good,Coding practice required
-8/17/2022 11:16:41,,Ashwin  badole,Rani Godase,6,8,Average,"Less confident, should add mote technical terms in explanation, coding practice required"
-8/17/2022 11:18:10,1655,Shravani,Rani Godase,9,9,Good,"Everything is good. Can be perfect by doing coding practice, and in depth concept knowledge."
-8/17/2022 11:19:39,1622,Vishal Gaikwad,Rani Godase,6,5,Good,Technical terms required in explanation also basics were not clear of coding as well as Ml
-8/17/2022 11:21:01,1657,Rupali jakapure,Rani Godase,5,5,Average,"Need to improve every area, python, ml, and communication too. Not prepared for the interview"
-8/17/2022 11:22:39,1648,Kajal ghode,Rani Godase,9,8,Good,Can answer in descriptive way instead of summrizing  it
-8/17/2022 11:25:34,1631,Pranali sheth,Rani Godase,8,7,Good,Coding practice is required. Can elaborate concept instead of summarizing it
-8/17/2022 11:26:23,1625,Pooja ugale,Rani Godase,7,7,Good,Need to work on basics of each area.
-8/17/2022 11:27:18,1613,Narottam chippa,Rani Godase,7,9,Good,Need to work on basics of ML
-8/17/2022 11:28:37,1620,Suvarna potdhuke,Rani Godase,6,7,Good,Need more conceptual knowledge on Ml and python
-8/17/2022 11:29:50,1652,Dhanashri,Rani Godase,5,6,Average,Need to improve every area. Basic were not clear of the candidate.
-8/17/2022 11:31:15,1633,Sagar,Rani Godase,1,7,Good,Not studied for the interview. Haven't explained anything on ml side.
-8/21/2022 17:44:25,,Ashish Patil,Sachin Birajdar,7,6,Good,Suggesting to clear all basic concepts and need more revision of interview question. Please do coding practice daily
-8/21/2022 17:45:59,,Swapnil Patil,Sachin Birajdar,5,4,Average,"Need to work hard on coding, technical and communication also."
-8/21/2022 17:47:48,,Ashwin Badole,Sachin Birajdar,4,7,Good,Need to work on technical concepts.. Coding is good still suggesting to practice more
-8/21/2022 17:49:43,,Monali Dambe,Sachin Birajdar,7,7,Average,She build resume. Explained projects.. Need to prepare projects in details. Also suggesting to improve communication
-9/25/2022 15:39:03,DSML 14,Aditya Magdum,Avhad Kiran,6,6,Good, Machine learning algorithms need be studied in more depth. Focus on the project that performed.  Deep learning needs to be studied. Introduction part in interview should be improved.
-9/25/2022 16:21:40,1645,Shivling Maynale,Avhad Kiran,5,4,Average,Deep learning needs to be studied.ML needs to be studied in deep. 
-9/25/2022 17:42:59,1655,Shravani Pattewar,Avhad Kiran,8,9,Good,Some basic concepts need to be revised. Overall she is good
-9/25/2022 14:29:27,DSML7,Dambe Monali D,Avhad Kiran ,6,4,Weak,"Machine learning is good , but communication needs to be improved Practice is required "
-9/25/2022 14:54:07,DSML 6,Mahesh Dhawale,Avhad Kiran ,2,2,Average,"Need to improve maths in behind the algorithm. coding , basic concepts not known. "
-9/25/2022 14:58:08,DSML 14,Mahesh Pawar,Avhad Kiran ,5,6,Good,"ML,DL knowledge needs to be improved in lot exetend.Coding is ok"
-9/25/2022 15:44:48,1652,Dhanashree Khatawakar,Avhad Kiran ,2,2,Weak,Communication needs to be improved in great extend. Very little knowledge of the ML. Deep learning needs be studied in deep level. 
-9/25/2022 17:44:47,1674,Swapnali Danagt,Avhad Kiran ,8,8,Good,Some basic concepts revision is required. Deep learning need to be studied
-9/25/2022 17:47:55,1606,Varsha Aadake,Dr. Vishal Bharate,6,6,Average,"1. Prepare ML algorithms in depth
-2. Python programming needs to improved
-3. Requires more attention on python fundamentals as well"
-9/25/2022 17:51:57,1607,Trupti Patil,Dr. Vishal Bharate,8,7,Good,"1. Good preparation
-2. Try to get in depth knowledge of machine learning algorithms
-3. Practice more for coding"
-9/25/2022 17:55:04,1669,Sujata Padhy,Dr. Vishal Bharate,6,8,Good,"1. Prepare more for machine learning algorithms
-2. Prepare for basics of python  
-3. Practice more for coding"
-9/25/2022 17:57:58,1635,Udayraj Gurav,Dr. Vishal Bharate,7,7,Average,"1. Try to get in depth knowledge of machine learning algorithms
-2. Practice more for coding"
-9/25/2022 18:01:10,1604,Tejaswini Patil,Dr. Vishal Bharate,7,8,Average,"1. Prepare more for machine learning algorithms
-2. Prepare for basics of python"
-9/25/2022 18:04:31,1648,Kajal Ghode,Dr. Vishal Bharate,7,8,Good,"1. Try to get in depth knowledge of machine learning algorithms
-2. Good preparation"
-9/25/2022 18:06:43,1631,Pranali Sheth,Dr. Vishal Bharate,6,8,Good,"1. Requires more preparation of machine learning algorithms
-2. Prepare more for basics of python"
-9/25/2022 18:09:06,1676,Akshay Warade,Dr. Vishal Bharate,8,8,Good,"1. Try to get in depth knowledge  of machine learning algorithms
-2. Good preparation"
-9/25/2022 18:17:48,1622,Vishal Gaikwad,Dr. Vishal Bharate,5,5,Average,"1. Prepare more for machine learning algorithms
-2. Prepare more for Python Basics
-3. Prepare more for Python coding"
-9/25/2022 17:29:17,1660,Swati Pawar,Sachin Birajdar,7,7,Good,Good in Coding and technical. Still suggest more practice of coding and more study. Suggesting to Lear some advance tools and technics in DS
-9/25/2022 17:30:49,1634,Vishnu Poddar,Sachin Birajdar,5,4,Good,"Need more and more practice and study. Try to clear all basics of ml, DL, NLP."
-9/25/2022 17:32:28,1613,Narottam Chippa,Sachin Birajdar,7,6,Weak,Good in coding and technical. Still require more practice in coding. And also please work on communication. 
-9/25/2022 17:33:46,1661,Vivek Dhruv,Sachin Birajdar,8,9,Good,Very good in technical and good in coding. Try to learn advance technics in DS.
-9/25/2022 17:34:59,1601,Mohini Ahir,Sachin Birajdar,6,6,Good,Need more practice in coding and more study. 
-9/25/2022 17:36:11,1638,Anjali Khade,Sachin Birajdar,5,5,Average,Need more practice in coding and need to study more in technical..
-9/25/2022 17:37:38,DSML 15,Deepshree Patil,Sachin Birajdar,5,5,Average,Need more coding practice and more study for technical knowledge.. 
-9/25/2022 17:39:25,1640,Priyanka Deshmukh,Sachin Birajdar,9,7,Good,"Good in coding but, need more technical study. Need to work on some basics and DL, NLP"
-9/25/2022 17:40:56,1677,Poonam Railkar,Sachin Birajdar,7,6,Good,"Good in coding but, need more technical study. Need to study DL and NLP concepts. "
-9/25/2022 17:42:26,1627,Kedar Kajale,Sachin Birajdar,5,5,Average,Need to work very hard in coding and technical. Need to develop interview skills too.
-9/25/2022 17:44:38,1621,Pravin Sathe,Sachin Birajdar,7,5,Good,Good in coding and I haven't checked his technical skill more because of his network issue.. His communication is good..
-9/26/2022 7:08:35,1632,Navanath Bhiva Valekar,Durgesh Patil,8,9,Average,Good going... 
-9/26/2022 7:09:24,1667,Vikas pandurang kadre,Durgesh Patil,4,4,Average,Need to work a lot on everything
-9/26/2022 7:10:22,1646,Ajay chandrakant Deshmukh,Durgesh Patil,5,5,Weak,Need a lot of practice... 
-9/26/2022 7:11:06,1603,Kimaya Sheth,Durgesh Patil,9,6,Good,Need to improve coding
-9/26/2022 7:14:40,1633,SAGAR DNYANDEO KHEDKAR,Durgesh Patil,8,7,Average,Coding practice needed
-9/26/2022 7:17:11,1625,POOJA DATTATREY UGALE,Durgesh Patil,9,5,Good,Coding practice
-9/26/2022 7:19:00,1614,Akash Kakekar,Durgesh Patil,7,6,Average,Coding practice
-9/26/2022 7:20:59,1637,Amit Kamble,Durgesh Patil,8,4,Average,A lot of coding practice needed
-9/4/2022 18:17:55,1821,Shital Patil,Durgesh Patil,8,8,Good,Problem solving practice
-9/4/2022 18:19:13,9001,Fatima Patel,Durgesh Patil,6,5,Good,Much practice needed
-9/4/2022 18:20:23,1831,Nisarg Rade,Durgesh Patil,7,8,Good,np pd practice needed
-9/4/2022 18:21:28,1829,Shubham kanade,Durgesh Patil,5,6,Average,Has to work on all fields
-9/4/2022 18:25:30,1824,Onkar Lomate,Durgesh Patil,3,3,Weak,Need serious thinking
-9/4/2022 18:27:58,1820,Prajwal Patil,Durgesh Patil,8,7,Average,Practice and communication could have been better
-9/4/2022 18:29:34,1823,Sachin Jadhav,Durgesh Patil,8,8,Good,Practice problem solving
-9/4/2022 18:30:36,1822,Mayuri Sonawane,Durgesh Patil,7,6,Good,Emotion control and of course problem solving
-9/6/2022 8:42:13,1801,Prasanna joshi,Rani Godase,10,10,Good,Can practice difficult coding problems. Else basics are clear
-9/6/2022 8:44:03,1802,Priyanka Gaydhani,Rani Godase,7,6,Good,Need to improve a lot on technical side and on coding. Not confident.
-9/6/2022 8:44:47,1804,Shrikrishna,Rani Godase,7,6,Good,Coding practice required
-9/6/2022 8:46:04,1803,Rupali Sali,Rani Godase,8,8,Good,Need to inprove technical knowledge and coding practice required.
-9/6/2022 8:47:11,1805,Pallavi Ahire,Rani Godase,7,8,Good,Coding practice required and need to inprove basics.
-9/6/2022 8:48:15,1814,Sadhana Kekan,Rani Godase,7,7,Average,Need to work on each area. Not so confident.
-9/6/2022 8:49:23,1807,Sachin ,Rani Godase,7,6,Good,Need to work on coding practice and on basics of python
-9/6/2022 8:50:40,1806,Monali Pawar,Rani Godase,5,5,Weak,"She was not prepared at all for the interview. Need to improve communication, basics."
-8/27/2022 12:33:34,1727,Ankita Bonde,Dr. Vishal Bharate,2,5,Average,"1. Needs to understand fundamentals of python
-2. Prepare form basic data structures
-3. Needs to start studying ML algorithms"
-8/27/2022 12:36:08,1714,Anant Suryavanshi,Dr. Vishal Bharate,7,8,Average,"1. Needs to explain concepts of machine learning properly
-2. Logic is good but needs to brush up to optimize the code"
-8/27/2022 12:38:10,1744,Vijay Shinde,Dr. Vishal Bharate,5,6,Average,"1. Needs to understand fundamentals of python clearly 
-2. Needs to explain concepts of machine learning properly
-3. Coding practice is required"
-8/27/2022 13:02:41,1767,Shivaji Devkate,Dr. Vishal Bharate,5,6,Average,"1. Needs to understand fundamentals of python clearly 
-2. Needs to explain concepts of machine learning properly
-3. Coding practice is required"
-8/27/2022 13:05:07,8001,Akshay Kakde,Dr. Vishal Bharate,3,5,Average,"1. Needs to study fundamentals of python properly
-2. Need to understand machine learning concepts clearly
-3. Programming needs to be improved"
-8/27/2022 13:06:50,1764,Mayuri Madamwar,Dr. Vishal Bharate,8,7,Good,"1. good knowledge of python fundamentals
-2. Need to understand machine learning concepts clearly
-3. Try to write optimized codes"
-8/27/2022 13:08:00,1716,Raviraj Mule,Dr. Vishal Bharate,4,5,Average,"1. Needs to improve knowledge of python fundamentals
-2. Need to understand machine learning concepts clearly
-3. Try to write optimized codes"
-8/27/2022 15:58:42,1715,Shweta Chiwhane,Gopal Kadam,6,4,Good,"need coding practice,"
-8/27/2022 16:00:12,1717,Kshipra Wadikar,Gopal Kadam,6,5,Good,Logic is good but need coding practice
-8/27/2022 16:01:22,1745,Rutuja Kadam,Gopal Kadam,6,7,Good,Logic is good but Need coding practice
-8/27/2022 16:02:52,1748,Nikhil Garudkar,Gopal Kadam,5,4,Average,need coding practice
-8/27/2022 16:04:04,1704,Nikhil Hulke,Gopal Kadam,7,5,Good,Logic is good but need coding practice
-8/27/2022 16:05:18,1705,Pooja Bagane,Gopal Kadam,7,7,Good,Logic is good but need coding practice
-8/28/2022 10:32:56,1765,vishal ghadage,Kiran Avhad,1,3,Weak,"Need improvements in communication, learn the concepts, Practice more in the python. "
-8/28/2022 10:44:13,1736,Rupali Taware,Kiran Avhad,3,3,Good,"Need to improve the python coding skills, Machine Learning skills.  "
-8/28/2022 11:14:32,1760,sumedha ,Kiran Avhad,1,2,Average,"No ML, improve the python skills, need to work more on confidence and communication"
-8/28/2022 11:47:33,1001,Prakash Mali,Kiran Avhad,3,4,Average,"In introduction no need of 11, 12th , directly go with exp and projects did, no need to say why changing company. Need to explain project in correct way
-Flow of the project in not explained correctly. Need to work on usecases in real time.Mistakes in resume itself.  Need surrounding knowledge related to the project."
-8/28/2022 12:15:00,1002,Dipak ,Kiran Avhad,2,3,Average,"No need of family members, weekness in intro. Project explanation need to better explained. Need more knowledge of the project implementation. Python skills need to be improved."
-8/28/2022 12:32:09,1301,Pranali ,Kiran Avhad,2,2,Weak,need deep knowledge of the ML. Very basic concept are not known. 
-8/28/2022 13:14:41,1733,Priyanka Patil,Kiran Avhad,3,3,Average,Basic python knowledge need to be brush up. ML yet to study
-8/28/2022 17:40:11,1719,Shreeya Kanhore,Sachin Birajdar,4,4,Average,Need to work on Python and technical concepts
-8/28/2022 17:41:54,1723,Rohini Devnikar,Sachin Birajdar,5,5,Good,Need to practice coding and technical concept   
-8/28/2022 17:43:46,1649,Deepali Joshi,Sachin Birajdar,5,5,Good,Need more revision of all technical concepts and more practice of coding also. 
-8/28/2022 17:45:35,1741,Aparna Gurav,Sachin Birajdar,7,6,Good,"Good in coding, technically and communication. Still suggesting to work on technical concepts."
-8/28/2022 17:47:03,1724,Shital Sobale,Sachin Birajdar,8,7,Good,"Good in coding, technical concepts and communication. Suggesting to practice more in coding "
-8/28/2022 17:48:31,1738,Pravin Gire,Sachin Birajdar,5,1,Average,"Need to work in all area (coding, technical, communication). "
-8/28/2022 17:50:49,1761,Amol Dhumane,Sachin Birajdar,8,8,Good,"Good in coding, technical, communication. Very much satisfied with his progress. "
-8/29/2022 8:44:45,1721,Abhishek Gaikwad,Durgesh Patil,4,5,Average,Need lot of practice
-8/29/2022 8:45:28,1658,Kavita gayakwad,Durgesh Patil,4,5,Good,Coding practice needed
-8/29/2022 8:46:24,1711,Apeksha Vyawahare ,Durgesh Patil,4,4,Good,Problem solving skills are weak. 
-8/29/2022 8:47:35,1731,Payal,Durgesh Patil,4,4,Good,Seems today's 5 people are very weak in coding
-8/29/2022 8:48:30,1713,Mahesh ,Durgesh Patil,3,2,Weak,Needs to decide what exactly he wants to do
+7/17/2022 16:39:18,1548,Akshata Shinde,Sachin Birajdar,3,8,Good,"Python coding is good, but DS concepts is bellow average, need to work on it"
+7/17/2022 16:41:54,101,Sriniwas More,Sachin Birajdar,4,6,Average,"Need more preparation for DS, and coding, Introduction must be framed nicely.. "
+7/23/2022 15:40:01,1412,Sandeep Samleti,Vishal Bharate,6,5,Good,"Needs to improve:
+1. basics of Machine Learning algorithms
+2. Practice more for coding
+3. practice numpy, pandas "
+7/23/2022 15:42:04,1420,Shubham Palave,Vishal Bharate,8,0,Good,"Needs to improve:
+1. basics of deep Learning algorithms
+2. Join interview on laptop so no coding skills accessed, Practice more for coding "
+7/23/2022 15:43:20,1406,Vishal Dhandare,Vishal Bharate,7,8,Good,"Needs to improve:
+1. basics of Machine Learning algorithms
+2. Start studying Deep Learning algorithms
+3. Practice more for coding
+4. practice numpy, pandas "
+7/23/2022 15:44:28,1407,Aditya Magdum,Vishal Bharate,6,8,Good,"Needs to improve:
+1. basics of Machine Learning algorithms
+2. Start studying Deep Learning algorithms
+3. practice python basics, numpy, pandas "
+7/23/2022 15:45:43,1404,Rohit Paunikar,Vishal Bharate,5,7,Good,"Needs to improve:
+1. needs lot of practice on basics of Machine Learning algorithms
+2. Start studying Deep Learning algorithms
+3. Practice more for coding
+4. practice basics of python, numpy, pandas "
+7/23/2022 16:01:58,1324,Sagar gade,Rani godase,6,7,Good,Can add some points in introduction including educational details and abstract of project. Need to know basics for the methods which he is applying in project.
+7/23/2022 16:03:36,1325,Pooja Pekam,Rani Godase,7,7,Good,Should add only technical words in topic explanation.
+7/23/2022 16:06:18,1413,Piyush upadhye,Rani Godase,3,4,Good,Need of lots of  improvement in each and everything.  He is appearing for an interview and he is not able to recall anything that means lack of preparation.
+7/23/2022 16:07:52,1403,Mahesh pawar,Rani Godase,10,10,Good,Overall technical and coding knowledge was upto the point. Can explore more topics in ML and DL.
+7/23/2022 16:10:25,1414,Poonam Pawar,Rani Godase,10,8,Good,"Need to improve and explore some methods in coding knowledge, else technical knowledge and communication is very nice. "
 7/31/2022 10:34:17,1737,Mangesh Tambade,Durgesh Patil,4,4,Good,Improve everything
 7/31/2022 10:34:52,1741,Aparna Gurav,Durgesh Patil,6,5,Good,Practice
 7/31/2022 10:35:47,1746,Gopal Ingle,Durgesh Patil,7,6,Good,Coding practice
@@ -230,59 +128,160 @@ Flow of the project in not explained correctly. Need to work on usecases in real
 7/31/2022 21:54:34,1734,Anagha Kadve,Rani Godase,9,6,Good,Coding practice is required
 7/31/2022 21:56:58,1761,Amol Dhumane,Rani Godase,10,10,Good,Overall Excellent interview. Very good and clear knowledge of python concepts. Very good at coding too.
 7/31/2022 21:58:21,1747,Seema Waghmare,Rani Godase,10,10,Good,Excellent interview. Scope of improvement in coding part.
-7/16/2022 17:08:35,DSML 15,Pranesh Trimukhe,Vishal Bharate,5,5,Good,"Needs to improve :
-1. communication 
-2. fundamental concepts of ML and DL.
-3. Practice more on python programming"
-7/16/2022 17:10:30,DSML 15,Rajesh Jadhav,Vishal Bharate,7,6,Good,"Needs to improve :
-1. communication 
-2. prepare precisely concepts of ML and DL
-3. Practice more on python programming"
-7/16/2022 17:12:35,DSML 15,Reshma Jadhav,Vishal Bharate,7,6,Good,"Needs to improve :
-1. communication 
-2. Listen properly to a question and answer
-3. fundamental concepts of ML and DL.
-4. Practice more and more on python programming"
-7/16/2022 17:14:17,DSML 15,Amar Waghmare,Vishal Bharate,5,6,Good,"Needs to improve :
-1. communication - Try to speak in English
-2. more focus on pandas
-3. fundamental concepts of ML and DL.
-4. Practice more on python programming"
-7/16/2022 17:16:49,DSML 15,Gauri Bhilaye,Vishal Bharate,6,0,Good,"Needs to improve :
-1. fundamental concepts of ML and DL
-2. Join interview call using laptop- Missing coding evaluation
-3. fundamental concepts of various functions in pandas"
-7/23/2022 15:40:01,DSML 14,Sandeep Samleti,Vishal Bharate,6,5,Good,"Needs to improve:
-1. basics of Machine Learning algorithms
-2. Practice more for coding
-3. practice numpy, pandas "
-7/23/2022 15:42:04,DSML 14,Shubham Palave,Vishal Bharate,8,0,Good,"Needs to improve:
-1. basics of deep Learning algorithms
-2. Join interview on laptop so no coding skills accessed, Practice more for coding "
-7/23/2022 15:43:20,DSML 14,Vishal Dhandare,Vishal Bharate,7,8,Good,"Needs to improve:
-1. basics of Machine Learning algorithms
-2. Start studying Deep Learning algorithms
-3. Practice more for coding
-4. practice numpy, pandas "
-7/23/2022 15:44:28,DSML 14,Aditya Magdum,Vishal Bharate,6,8,Good,"Needs to improve:
-1. basics of Machine Learning algorithms
-2. Start studying Deep Learning algorithms
-3. practice python basics, numpy, pandas "
-7/23/2022 15:45:43,DSML 14,Rohit Paunikar,Vishal Bharate,5,7,Good,"Needs to improve:
-1. needs lot of practice on basics of Machine Learning algorithms
-2. Start studying Deep Learning algorithms
-3. Practice more for coding
-4. practice basics of python, numpy, pandas "
-7/23/2022 16:01:58,DSML 14,Sagar gade,Rani godase,6,7,Good,Can add some points in introduction including educational details and abstract of project. Need to know basics for the methods which he is applying in project.
-7/23/2022 16:03:36,DSML 14,Pooja Pekam,Rani Godase,7,7,Good,Should add only technical words in topic explanation.
-7/23/2022 16:06:18,DSML 14,Piyush upadhye,Rani Godase,3,4,Good,Need of lots of  improvement in each and everything.  He is appearing for an interview and he is not able to recall anything that means lack of preparation.
-7/23/2022 16:07:52,DSML 14,Mahesh pawar,Rani Godase,10,10,Good,Overall technical and coding knowledge was upto the point. Can explore more topics in ML and DL.
-7/23/2022 16:10:25,DSML 14,Poonam Pawar,Rani Godase,10,8,Good,"Need to improve and explore some methods in coding knowledge, else technical knowledge and communication is very nice. "
-8/14/2022 21:49:11,,Ruturaj Patil,Sachin Birajdar,7,5,Good,Technically good but need to work on coding. 
-8/17/2022 11:16:41,,Ashwin Badole,Rani Godase,6,8,Average,"Less confident, should add mote technical terms in explanation, coding practice required"
-8/21/2022 17:47:48,,Ashwin Badole,Sachin Birajdar,4,7,Good,Need to work on technical concepts.. Coding is good still suggesting to practice more
-8/14/2022 21:47:50,,Monali Dambe,Sachin Birajdar,7,7,Average,Technically good and coding is also good. Still suggest to work more on it. Need to improve communication skill.
-8/21/2022 17:49:43,,Monali Dambe,Sachin Birajdar,7,7,Average,She build resume. Explained projects.. Need to prepare projects in details. Also suggesting to improve communication
+8/14/2022 21:42:53,1313,Saraswati Nagtilak,Sachin Birajdar,8,7,Good,Technically good still need more revision of basic concepts.. Will suggest to practice coding
+8/14/2022 21:44:29,1607,Trupati Patil,Sachin Birajdar,6,5,Good,Need more practice of python. Technically good but need more revision
+8/14/2022 21:46:14,102,Nikita Jagtap,Sachin Birajdar,4,5,Average,Need to work on coding. Need more study of technical concepts. Also need to work on communication.
+8/14/2022 21:47:50,701,Monali Dambe,Sachin Birajdar,7,7,Average,Technically good and coding is also good. Still suggest to work more on it. Need to improve communication skill.
+8/14/2022 21:47:50,701,Monali Dambe,Sachin Birajdar,7,7,Average,Technically good and coding is also good. Still suggest to work more on it. Need to improve communication skill.
+8/14/2022 21:49:11,1522,Ruturaj Patil,Sachin Birajdar,7,5,Good,Technically good but need to work on coding. 
+8/14/2022 21:49:11,1522,Ruturaj Patil,Sachin Birajdar,7,5,Good,Technically good but need to work on coding. 
+8/14/2022 21:51:02,1604,Tejaswani Patil,sachin Birajdar,9,7,Good,Coding is good. Technically also good. Still need to work on ML basic concepts
+8/14/2022 21:52:34,1676,Akshay Warade,Sachin Birajdar,9,6,Good,Coding is good. Need to work on technical aspect. 
+8/14/2022 21:53:49,103,Rahul Navale,Sachin Birajdar,5,5,Good,Need to work on both coding and ML basic concepts
+8/14/2022 21:55:09,1647,Rubina Kazi,Sachin Birajdar,4,4,Average,"Need to work on all aspects. Coding, technical and communication too."
+8/14/2022 21:56:25,1608,Arun Shinde,Sachin Birajdar,4,5,Average,Need to work on Coding and ML basics. Need to improve communication
+8/14/2022 21:58:44,104,Rahul Borate,Sachin Birajdar,7,5,Average,"Coding is good. Still unable to solve some simple problem statement. Need to study more, need to work on some basic concepts of DL and NLP"
+8/14/2022 22:00:39,1614,Akash Kakekar,Sachin Birajdar,6,5,Average,Coding is good. He solved some tasks as I given. Need to work on technical concepts. Need to improve communication. 
+8/15/2022 20:53:32,1660,Swati pawar,Durgesh Patil,6,6,Good,Need to work more else ok
+8/15/2022 20:54:36,1348,Aniket khedkar,Durgesh Patil,5,5,Average,Technical understanding is weak
+8/15/2022 20:55:27,1669,Sujata purohit,Durgesh Patil,4,6,Good,Confidence and more technical understanding needed
+8/15/2022 20:56:11,1634,Vishnu potdar,Durgesh Patil,7,7,Good,"Everything is good, need to spend more time"
+8/15/2022 21:00:06,1674,Swapnali more,Durgesh Patil,9,7,Good,Everything is good
+8/15/2022 21:01:19,1637,Amit kambale,Durgesh Patil,6,4,Average,Coding practice needed
+8/15/2022 21:04:00,1616,Pratik chavan,Durgesh Patil,8,5,Good,Logic needed 
+8/15/2022 21:09:33,1640,Priyanka,Durgesh Patil,7,6,Good,More practice
+8/15/2022 21:11:43,1621,Pravin sathe,Durgesh Patil,8,6,Good,Coding practice needed
+8/15/2022 21:12:31,1662,Aakash kadam,Durgesh Patil,4,4,Weak,Need to work on everything
+8/17/2022 11:14:16,1606,Varsha aadke,Rani godase,7,8,Good,Should use more technical terms while explaining anything.
+8/17/2022 11:15:01,1603,Kimaya sheth,Rani Godase,9,8,Good,Coding practice required
+8/17/2022 11:16:41,1532,Ashwin  badole,Rani Godase,6,8,Average,"Less confident, should add mote technical terms in explanation, coding practice required"
+8/17/2022 11:16:41,1532,Ashwin Badole,Rani Godase,6,8,Average,"Less confident, should add mote technical terms in explanation, coding practice required"
+8/17/2022 11:18:10,1655,Shravani,Rani Godase,9,9,Good,"Everything is good. Can be perfect by doing coding practice, and in depth concept knowledge."
+8/17/2022 11:19:39,1622,Vishal Gaikwad,Rani Godase,6,5,Good,Technical terms required in explanation also basics were not clear of coding as well as Ml
+8/17/2022 11:21:01,1657,Rupali jakapure,Rani Godase,5,5,Average,"Need to improve every area, python, ml, and communication too. Not prepared for the interview"
+8/17/2022 11:22:39,1648,Kajal ghode,Rani Godase,9,8,Good,Can answer in descriptive way instead of summrizing  it
+8/17/2022 11:25:34,1631,Pranali sheth,Rani Godase,8,7,Good,Coding practice is required. Can elaborate concept instead of summarizing it
+8/17/2022 11:26:23,1625,Pooja ugale,Rani Godase,7,7,Good,Need to work on basics of each area.
+8/17/2022 11:27:18,1613,Narottam chippa,Rani Godase,7,9,Good,Need to work on basics of ML
+8/17/2022 11:28:37,1620,Suvarna potdhuke,Rani Godase,6,7,Good,Need more conceptual knowledge on Ml and python
+8/17/2022 11:29:50,1652,Dhanashri,Rani Godase,5,6,Average,Need to improve every area. Basic were not clear of the candidate.
+8/17/2022 11:31:15,1633,Sagar,Rani Godase,1,7,Good,Not studied for the interview. Haven't explained anything on ml side.
+8/21/2022 17:44:25,1365,Ashish Patil,Sachin Birajdar,7,6,Good,Suggesting to clear all basic concepts and need more revision of interview question. Please do coding practice daily
+8/21/2022 17:45:59,1338,Swapnil Patil,Sachin Birajdar,5,4,Average,"Need to work hard on coding, technical and communication also."
+8/21/2022 17:47:48,1532,Ashwin Badole,Sachin Birajdar,4,7,Good,Need to work on technical concepts.. Coding is good still suggesting to practice more
+8/21/2022 17:47:48,1532,Ashwin Badole,Sachin Birajdar,4,7,Good,Need to work on technical concepts.. Coding is good still suggesting to practice more
+8/21/2022 17:49:43,701,Monali Dambe,Sachin Birajdar,7,7,Average,She build resume. Explained projects.. Need to prepare projects in details. Also suggesting to improve communication
+8/27/2022 12:33:34,1727,Ankita Bonde,Dr. Vishal Bharate,2,5,Average,"1. Needs to understand fundamentals of python
+2. Prepare form basic data structures
+3. Needs to start studying ML algorithms"
+8/27/2022 12:36:08,1714,Anant Suryavanshi,Dr. Vishal Bharate,7,8,Average,"1. Needs to explain concepts of machine learning properly
+2. Logic is good but needs to brush up to optimize the code"
+8/27/2022 12:38:10,1744,Vijay Shinde,Dr. Vishal Bharate,5,6,Average,"1. Needs to understand fundamentals of python clearly 
+2. Needs to explain concepts of machine learning properly
+3. Coding practice is required"
+8/27/2022 13:02:41,1767,Shivaji Devkate,Dr. Vishal Bharate,5,6,Average,"1. Needs to understand fundamentals of python clearly 
+2. Needs to explain concepts of machine learning properly
+3. Coding practice is required"
+8/27/2022 13:05:07,8001,Akshay Kakde,Dr. Vishal Bharate,3,5,Average,"1. Needs to study fundamentals of python properly
+2. Need to understand machine learning concepts clearly
+3. Programming needs to be improved"
+8/27/2022 13:06:50,1764,Mayuri Madamwar,Dr. Vishal Bharate,8,7,Good,"1. good knowledge of python fundamentals
+2. Need to understand machine learning concepts clearly
+3. Try to write optimized codes"
+8/27/2022 13:08:00,1716,Raviraj Mule,Dr. Vishal Bharate,4,5,Average,"1. Needs to improve knowledge of python fundamentals
+2. Need to understand machine learning concepts clearly
+3. Try to write optimized codes"
+8/27/2022 15:58:42,1715,Shweta Chiwhane,Gopal Kadam,6,4,Good,"need coding practice,"
+8/27/2022 16:00:12,1717,Kshipra Wadikar,Gopal Kadam,6,5,Good,Logic is good but need coding practice
+8/27/2022 16:01:22,1745,Rutuja Kadam,Gopal Kadam,6,7,Good,Logic is good but Need coding practice
+8/27/2022 16:02:52,1748,Nikhil Garudkar,Gopal Kadam,5,4,Average,need coding practice
+8/27/2022 16:04:04,1704,Nikhil Hulke,Gopal Kadam,7,5,Good,Logic is good but need coding practice
+8/27/2022 16:05:18,1705,Pooja Bagane,Gopal Kadam,7,7,Good,Logic is good but need coding practice
+8/28/2022 10:32:56,1765,vishal ghadage,Kiran Avhad,1,3,Weak,"Need improvements in communication, learn the concepts, Practice more in the python. "
+8/28/2022 10:44:13,1736,Rupali Taware,Kiran Avhad,3,3,Good,"Need to improve the python coding skills, Machine Learning skills.  "
+8/28/2022 11:14:32,1760,sumedha ,Kiran Avhad,1,2,Average,"No ML, improve the python skills, need to work more on confidence and communication"
+8/28/2022 11:47:33,1001,Prakash Mali,Kiran Avhad,3,4,Average,"In introduction no need of 11, 12th , directly go with exp and projects did, no need to say why changing company. Need to explain project in correct way
+Flow of the project in not explained correctly. Need to work on usecases in real time.Mistakes in resume itself.  Need surrounding knowledge related to the project."
+8/28/2022 12:15:00,1002,Dipak ,Kiran Avhad,2,3,Average,"No need of family members, weekness in intro. Project explanation need to better explained. Need more knowledge of the project implementation. Python skills need to be improved."
+8/28/2022 12:32:09,1361,Pranali kadam,Kiran Avhad,2,2,Weak,need deep knowledge of the ML. Very basic concept are not known. 
+8/28/2022 13:14:41,1733,Priyanka Patil,Kiran Avhad,3,3,Average,Basic python knowledge need to be brush up. ML yet to study
+8/28/2022 17:40:11,1719,Shreeya Kanhore,Sachin Birajdar,4,4,Average,Need to work on Python and technical concepts
+8/28/2022 17:41:54,1723,Rohini Devnikar,Sachin Birajdar,5,5,Good,Need to practice coding and technical concept   
+8/28/2022 17:43:46,1649,Deepali Joshi,Sachin Birajdar,5,5,Good,Need more revision of all technical concepts and more practice of coding also. 
+8/28/2022 17:45:35,1741,Aparna Gurav,Sachin Birajdar,7,6,Good,"Good in coding, technically and communication. Still suggesting to work on technical concepts."
+8/28/2022 17:47:03,1724,Shital Sobale,Sachin Birajdar,8,7,Good,"Good in coding, technical concepts and communication. Suggesting to practice more in coding "
+8/28/2022 17:48:31,1738,Pravin Gire,Sachin Birajdar,5,1,Average,"Need to work in all area (coding, technical, communication). "
+8/28/2022 17:50:49,1761,Amol Dhumane,Sachin Birajdar,8,8,Good,"Good in coding, technical, communication. Very much satisfied with his progress. "
+8/29/2022 8:44:45,1721,Abhishek Gaikwad,Durgesh Patil,4,5,Average,Need lot of practice
+8/29/2022 8:45:28,1658,Kavita gayakwad,Durgesh Patil,4,5,Good,Coding practice needed
+8/29/2022 8:46:24,1711,Apeksha Vyawahare ,Durgesh Patil,4,4,Good,Problem solving skills are weak. 
+8/29/2022 8:47:35,1731,Payal,Durgesh Patil,4,4,Good,Seems today's 5 people are very weak in coding
+8/29/2022 8:48:30,1713,Mahesh ,Durgesh Patil,3,2,Weak,Needs to decide what exactly he wants to do
+9/4/2022 18:17:55,1821,Shital Patil,Durgesh Patil,8,8,Good,Problem solving practice
+9/4/2022 18:19:13,9001,Fatima Patel,Durgesh Patil,6,5,Good,Much practice needed
+9/4/2022 18:20:23,1831,Nisarg Rade,Durgesh Patil,7,8,Good,np pd practice needed
+9/4/2022 18:21:28,1829,Shubham kanade,Durgesh Patil,5,6,Average,Has to work on all fields
+9/4/2022 18:25:30,1824,Onkar Lomate,Durgesh Patil,3,3,Weak,Need serious thinking
+9/4/2022 18:27:58,1820,Prajwal Patil,Durgesh Patil,8,7,Average,Practice and communication could have been better
+9/4/2022 18:29:34,1823,Sachin Jadhav,Durgesh Patil,8,8,Good,Practice problem solving
+9/4/2022 18:30:36,1822,Mayuri Sonawane,Durgesh Patil,7,6,Good,Emotion control and of course problem solving
+9/6/2022 8:42:13,1801,Prasanna joshi,Rani Godase,10,10,Good,Can practice difficult coding problems. Else basics are clear
+9/6/2022 8:44:03,1802,Priyanka Gaydhani,Rani Godase,7,6,Good,Need to improve a lot on technical side and on coding. Not confident.
+9/6/2022 8:44:47,1804,Shrikrishna,Rani Godase,7,6,Good,Coding practice required
+9/6/2022 8:46:04,1803,Rupali Sali,Rani Godase,8,8,Good,Need to inprove technical knowledge and coding practice required.
+9/6/2022 8:47:11,1805,Pallavi Ahire,Rani Godase,7,8,Good,Coding practice required and need to inprove basics.
+9/6/2022 8:48:15,1814,Sadhana Kekan,Rani Godase,7,7,Average,Need to work on each area. Not so confident.
+9/6/2022 8:49:23,1807,Sachin ,Rani Godase,7,6,Good,Need to work on coding practice and on basics of python
+9/6/2022 8:50:40,1806,Monali Pawar,Rani Godase,5,5,Weak,"She was not prepared at all for the interview. Need to improve communication, basics."
+9/25/2022 14:29:27,701,Dambe Monali D,Avhad Kiran ,6,4,Weak,"Machine learning is good , but communication needs to be improved Practice is required "
+9/25/2022 14:54:07,601,Mahesh Dhawale,Avhad Kiran ,2,2,Average,"Need to improve maths in behind the algorithm. coding , basic concepts not known. "
+9/25/2022 14:58:08,1403,Mahesh Pawar,Avhad Kiran ,5,6,Good,"ML,DL knowledge needs to be improved in lot exetend.Coding is ok"
+9/25/2022 15:39:03,1407,Aditya Magdum,Avhad Kiran,6,6,Good, Machine learning algorithms need be studied in more depth. Focus on the project that performed.  Deep learning needs to be studied. Introduction part in interview should be improved.
+9/25/2022 15:44:48,1652,Dhanashree Khatawakar,Avhad Kiran ,2,2,Weak,Communication needs to be improved in great extend. Very little knowledge of the ML. Deep learning needs be studied in deep level. 
+9/25/2022 16:21:40,1645,Shivling Maynale,Avhad Kiran,5,4,Average,Deep learning needs to be studied.ML needs to be studied in deep. 
+9/25/2022 17:29:17,1660,Swati Pawar,Sachin Birajdar,7,7,Good,Good in Coding and technical. Still suggest more practice of coding and more study. Suggesting to Lear some advance tools and technics in DS
+9/25/2022 17:30:49,1634,Vishnu Poddar,Sachin Birajdar,5,4,Good,"Need more and more practice and study. Try to clear all basics of ml, DL, NLP."
+9/25/2022 17:32:28,1613,Narottam Chippa,Sachin Birajdar,7,6,Weak,Good in coding and technical. Still require more practice in coding. And also please work on communication. 
+9/25/2022 17:33:46,1661,Vivek Dhruv,Sachin Birajdar,8,9,Good,Very good in technical and good in coding. Try to learn advance technics in DS.
+9/25/2022 17:34:59,1601,Mohini Ahir,Sachin Birajdar,6,6,Good,Need more practice in coding and more study. 
+9/25/2022 17:36:11,1638,Anjali Khade,Sachin Birajdar,5,5,Average,Need more practice in coding and need to study more in technical..
+9/25/2022 17:37:38,1552,Deepshree Patil,Sachin Birajdar,5,5,Average,Need more coding practice and more study for technical knowledge.. 
+9/25/2022 17:39:25,1640,Priyanka Deshmukh,Sachin Birajdar,9,7,Good,"Good in coding but, need more technical study. Need to work on some basics and DL, NLP"
+9/25/2022 17:40:56,1677,Poonam Railkar,Sachin Birajdar,7,6,Good,"Good in coding but, need more technical study. Need to study DL and NLP concepts. "
+9/25/2022 17:42:26,1627,Kedar Kajale,Sachin Birajdar,5,5,Average,Need to work very hard in coding and technical. Need to develop interview skills too.
+9/25/2022 17:42:59,1655,Shravani Pattewar,Avhad Kiran,8,9,Good,Some basic concepts need to be revised. Overall she is good
+9/25/2022 17:44:38,1621,Pravin Sathe,Sachin Birajdar,7,5,Good,Good in coding and I haven't checked his technical skill more because of his network issue.. His communication is good..
+9/25/2022 17:44:47,1674,Swapnali Danagt,Avhad Kiran ,8,8,Good,Some basic concepts revision is required. Deep learning need to be studied
+9/25/2022 17:47:55,1606,Varsha Aadake,Dr. Vishal Bharate,6,6,Average,"1. Prepare ML algorithms in depth
+2. Python programming needs to improved
+3. Requires more attention on python fundamentals as well"
+9/25/2022 17:51:57,1607,Trupti Patil,Dr. Vishal Bharate,8,7,Good,"1. Good preparation
+2. Try to get in depth knowledge of machine learning algorithms
+3. Practice more for coding"
+9/25/2022 17:55:04,1669,Sujata Padhy,Dr. Vishal Bharate,6,8,Good,"1. Prepare more for machine learning algorithms
+2. Prepare for basics of python  
+3. Practice more for coding"
+9/25/2022 17:57:58,1635,Udayraj Gurav,Dr. Vishal Bharate,7,7,Average,"1. Try to get in depth knowledge of machine learning algorithms
+2. Practice more for coding"
+9/25/2022 18:01:10,1604,Tejaswini Patil,Dr. Vishal Bharate,7,8,Average,"1. Prepare more for machine learning algorithms
+2. Prepare for basics of python"
+9/25/2022 18:04:31,1648,Kajal Ghode,Dr. Vishal Bharate,7,8,Good,"1. Try to get in depth knowledge of machine learning algorithms
+2. Good preparation"
+9/25/2022 18:06:43,1631,Pranali Sheth,Dr. Vishal Bharate,6,8,Good,"1. Requires more preparation of machine learning algorithms
+2. Prepare more for basics of python"
+9/25/2022 18:09:06,1676,Akshay Warade,Dr. Vishal Bharate,8,8,Good,"1. Try to get in depth knowledge  of machine learning algorithms
+2. Good preparation"
+9/25/2022 18:17:48,1622,Vishal Gaikwad,Dr. Vishal Bharate,5,5,Average,"1. Prepare more for machine learning algorithms
+2. Prepare more for Python Basics
+3. Prepare more for Python coding"
+9/26/2022 7:08:35,1632,Navanath Bhiva Valekar,Durgesh Patil,8,9,Average,Good going... 
+9/26/2022 7:09:24,1667,Vikas pandurang kadre,Durgesh Patil,4,4,Average,Need to work a lot on everything
+9/26/2022 7:10:22,1646,Ajay chandrakant Deshmukh,Durgesh Patil,5,5,Weak,Need a lot of practice... 
+9/26/2022 7:11:06,1603,Kimaya Sheth,Durgesh Patil,9,6,Good,Need to improve coding
+9/26/2022 7:14:40,1633,SAGAR DNYANDEO KHEDKAR,Durgesh Patil,8,7,Average,Coding practice needed
+9/26/2022 7:17:11,1625,POOJA DATTATREY UGALE,Durgesh Patil,9,5,Good,Coding practice
+9/26/2022 7:19:00,1614,Akash Kakekar,Durgesh Patil,7,6,Average,Coding practice
+9/26/2022 7:20:59,1637,Amit Kamble,Durgesh Patil,8,4,Average,A lot of coding practice needed
 10/1/2022 12:45:32,1919,Aadarsh,Durgesh Patil,9,9,Good,On a good track
 10/1/2022 12:46:29,1904,Roshan,Durgesh Patil,7,6,Average,Hrank practice 
 10/1/2022 12:47:45,1942,Vikas,Durgesh Patil,5,6,Weak,Communication and understanding
@@ -391,4 +390,75 @@ Flow of the project in not explained correctly. Need to work on usecases in real
 10/9/2022 19:47:12,1201,Shital W,Durgesh Patil,7,5,Average,Coding practice
 10/9/2022 19:55:23,1646,Ajay Deshmukh,Durgesh Patil,8,7,Average,Conceptual Understanding is necessary
 10/9/2022 19:56:44,1645,Shivling,Durgesh Patil,7,9,Average,Algorithm understanding
-10/9/2022 19:57:55,1610,Sukhdev,Durgesh Patil,6,9,Good,More practice
+10/9/2022 19:57:55,1610,Sukhdev Todgire,Durgesh Patil,6,9,Good,More practice
+10/15/2022 16:43:21,1761,Amol Dhumane,Avhad Kiran ,6,7,Good,Need more focused study on data. 
+10/15/2022 16:45:02,1731,Payal Ugale,Avhad Kiran ,4,4,Weak,Need more study. Prctical oriented study is required 
+10/15/2022 16:46:15,1760,Sumedha Rout,Avhad Kiran ,5,5,Average,Ml algorithms must be learned in proper way
+10/15/2022 16:49:40,1736,Rupali Taware,Avhad Kiran ,6,6,Average,Has only basic knowledge of python. Need more study in ML and DL. 
+10/15/2022 17:01:23,1975,Sumedha Chitnis,Dr. V. D. Bharate,7,7,Good,"1. Study concepts of list, tuples etc. more properly
+2. Try to write precise codes"
+10/15/2022 17:03:16,1910,Atul Patil,Dr. V. D. Bharate,7,8,Good,"1. Try to study conceptually concepts of list, tuples etc. "
+10/15/2022 17:05:57,1974,Shubham Khomane,Dr. V. D. Bharate,4,5,Weak,"1. Study concepts of basic python 
+2. Study concepts of List, Set, Tuple and Dictionary 
+3. Try to write codes and develop logic
+4. Try to speak in English"
+10/15/2022 17:07:31,1914,Nehal Shaikh,Dr. V. D. Bharate,7,8,Good,"1. Study concepts of basic python in depth
+2. Study concepts of List, Set, Tuple and Dictionary in depth"
+10/15/2022 17:09:48,1926,Sachin Bagde,Dr. V. D. Bharate,6,7,Average,"1. Give more focus on fundamental of Python
+2. Get in depth knowledge of Set, Tuple etc.
+3. Try to connect with proper audio setup"
+10/15/2022 17:11:14,1930,Nathsaheb Mhetre,Dr. V. D. Bharate,6,7,Average,"1. Give more focus on fundamental of Python
+2. Get in depth knowledge of Set, Tuple etc.
+3. Try to improve communication skill"
+10/15/2022 17:12:55,1971,Yogesh Kharade,Dr. V. D. Bharate,5,7,Average,"1. Give more focus on fundamental of Python
+2. Try to get in depth knowledge of Set, Tuple etc.
+3. Lot of improvement required on concepts"
+10/15/2022 17:14:44,1963,Sheetal More,Dr. V. D. Bharate,8,8,Good,"1. Good understanding of concepts
+2. Try to experiment with related concepts"
+10/15/2022 17:16:27,1969,Ganesh Shingate,Dr. V. D. Bharate,4,4,Weak,"1. Give more focus on fundamental of Python
+2. Get in depth knowledge of Set, Tuple etc.
+3. Try to connect with laptop
+4. Lot of efforts are required to understand concepts"
+10/15/2022 17:18:03,1946,Nikhil Wagh,Dr. V. D. Bharate,6,6,Good,"1. Give more focus on fundamental of Python
+2. Get in depth knowledge of Set, Tuple etc.
+3. Try to understood the problem and apply proper logic to solve it"
+10/16/2022 15:18:48,1913,Rohan Ransing,Amruta Maral,6,5,Weak,"1) Need More Practice in coding.
+2) More study is required for Tuple, Set, Dictionary etc...
+3) Should work on Communication. "
+10/16/2022 15:27:38,1972,Aumkar ,Amruta Maral,5,4,Good,"1) Some basic concepts need to be revised.
+2)  Need More practice in coding and program syntax.
+3)  Work hard on pattern programs, Functions,  Dictionary ,Matrix ,etc..."
+10/16/2022 15:35:10,1915,Sonal Yadhav,Amruta Maral,8,8,Average,"1) Good in coding and technical, but still suggest learn program in depth.
+2) Study more on to convert list into dictionary, tuple to string, list to set , tuple to dictionary."
+10/16/2022 15:55:39,1826,Komal Thorat,Gopal Kadam,6,8,Good,"Good,"
+10/16/2022 15:57:24,1920,Lokesh Patil,Gopal Kadam,6,5,Good,need to do Coding practice and develop logic
+10/16/2022 15:58:45,1922,Rohit Magdum,Gopal Kadam,5,6,Good,practice coding 
+10/16/2022 16:00:05,1932,Pradip Patil,Gopal Kadam,4,4,Good,practice coding and use laptop for interviews
+10/16/2022 16:01:27,1933,Sapna Ranaware,Gopal Kadam,3,4,Average,practice coding and develop your logic
+10/16/2022 16:02:57,401,Sakshi Nimbalkar,Gopal Kadam,3,5,Average,practice coding and develop your logic
+10/16/2022 16:04:28,1917,Gagandeep Kaur,Gopal Kadam,7,8,Good,"Logic is good ,practice coding "
+10/17/2022 10:12:06,1318,Sourabh,Durgesh Patil,4,4,Average,Need to decide the goal first
+10/17/2022 10:13:15,1421,Afrin sayyad,Durgesh Patil,5,6,Good,Conceptual knowledge needed
+10/17/2022 10:14:12,1669,Sujata Purohit,Durgesh Patil,6,9,Average,Coding practice needed
+10/17/2022 10:15:28,1609,Nikhil,Durgesh Patil,8,9,Average,Focus on communication also
+10/17/2022 10:16:53,1905,Pruthwiraj,Durgesh Patil,8,8,Good,Work on simplified solution rather than complexing it
+10/17/2022 10:18:31,1943,Apurv,Durgesh Patil,7,8,Average,Coding can be improved. 
+10/18/2022 22:42:16,1901,Vikrant Raste,Rani Godase,7,6,Weak,Need to work on coding and communication skills. 
+10/18/2022 22:43:12,1902,Pallavi Rathi,Rani Godase,9,7,Good,Need to work on coding
+10/18/2022 22:44:50,1904,Roshan Khatale,Rani Godase,7,8,Good,Good communication skill but need to work on technical aspect
+10/18/2022 22:47:03,1919,Adarsh Chanewar,Rani Godase,9,10,Good,Good progress overall. Technical can be improved a bit.
+10/18/2022 22:48:41,1935,Ashwini More,Rani Godase,8,7,Good,Need to work on coding and technical aspect
+10/18/2022 22:50:07,1936,Pushpa Patil,Rani Godase,9,7,Good,Need to work on coding. Other aspects are good.
+10/18/2022 22:51:08,1941,Alka Mankar,Rani Godase,8,6,Good,Work on coding and technical
+10/18/2022 22:52:19,1954,Akshata Takade,Rani Godase,8,6,Good,Need to work on coding and a bit on technical too
+10/18/2022 22:53:30,1958,Rashmi Ashtagi,Rani Godase,8,7,Good,Need to work on technical and coding too
+10/18/2022 22:54:25,1965,Manoj Patil,Rani Godase,8,8,Good,Work on coding and techincal aspects
+10/18/2022 22:56:34,1967,Kaushal Unecha ,Rani Godase,8,6,Average,Need to work on all aspects especially coding and communication.
+10/18/2022 22:57:31,1911,Arti Kadam,Rani Godase,6,6,Average,Need to work on all the aspects.
+10/18/2022 23:00:29,1934,Gauri Uphade,Rani Godase,7,8,Average,Need to work on all aspects
+10/18/2022 23:02:44,1952,Simpal Mahajan,Rani Godase,7,7,Weak,Need to work on all the aspects especially communication
+10/18/2022 23:04:34,1970,Prajakta Gaikwad,Rani Godase,6,5,Average,No preparation for coding. need to work on all the aspects.
+10/18/2022 23:05:27,1973,Sanjay Patel,Rani Godase,8,6,Good,Need to work on coding and technical too
+10/18/2022 23:06:41,1201,Shital Wakchaure,Rani Godase,7,8,Good,Work on coding and especially technical
+10/18/2022 23:07:46,1556,Vishwasjeet Kadam,Rani Godase,8,7,Good,Need to work on technical and coding aspects
+10/18/2022 23:09:03,1316,Avinash Kadam,Rani Godase,7,8,Good,Coding practice required and technical too.
