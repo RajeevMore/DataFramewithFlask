@@ -17,7 +17,6 @@ def home():
     
 
     df = pd.read_csv("mockdata.csv")
-    df = df.drop(columns="Expert Name")
     result1 = df[df['Registration id'] ==reg_id]    
     return '<h1> Welcome, Your Mock Interview Scores are as follows</h1><br/>'+result1.to_html(index=False) 
     
